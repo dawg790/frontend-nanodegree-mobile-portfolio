@@ -74,11 +74,11 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 
 
 Project Links:
-<a href="https://www.udacity.com/wiki/ud884">Web Optimization Wiki</a>
-<a href="https://developer.chrome.com/devtools/docs/device-mode">Device Mode &amp; Mobile Emulation - Google</a>
-<a href="https://developer.chrome.com/devtools/docs/timeline#making-a-recording">Performance Profiling with the Timeline</a>
-<a href="https://developer.chrome.com/devtools/docs/timeline#timeline-event-reference">Timeline Event Reference</a>
-<a href="https://developer.chrome.com/devtools/docs/remote-debugging">Remote Debugging with Android</a>
-<a href="https://developers.google.com/web/fundamentals/performance/critical-rendering-path/">Critical Rendering Path - Google</a>
-<a href="http://www.stevesouders.com/blog/2009/05/18/flushing-the-document-early/">Flushing Document Early</a>
-<a href="http://blog.cowchimp.com/chunk-scatter-http-chunked-response-analysis-tool/">Chunk Scatter - Visualize chunked HTTP responses</a>
+* <a href="https://www.udacity.com/wiki/ud884">Web Optimization Wiki</a>
+* <a href="https://developer.chrome.com/devtools/docs/device-mode">Device Mode &amp; Mobile Emulation - Google</a>
+* <a href="https://developer.chrome.com/devtools/docs/timeline#making-a-recording">Performance Profiling with the Timeline</a>
+* <a href="https://developer.chrome.com/devtools/docs/timeline#timeline-event-reference">Timeline Event Reference</a>
+* <a href="https://developer.chrome.com/devtools/docs/remote-debugging">Remote Debugging with Android</a>
+* <a href="https://developers.google.com/web/fundamentals/performance/critical-rendering-path/">Critical Rendering Path - Google</a>
+* <a href="http://www.stevesouders.com/blog/2009/05/18/flushing-the-document-early/">Flushing Document Early</a>
+* <a href="http://blog.cowchimp.com/chunk-scatter-http-chunked-response-analysis-tool/">Chunk Scatter - Visualize chunked HTTP responses</a>
