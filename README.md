@@ -32,7 +32,7 @@ Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
 
 ####Part 2: Optimize Frames per Second in pizza.html
 
-To optimize views/pizza.html, you will need to modify views/js/main.js until your frames per second rate is 60 fps or higher. You will find instructive comments in main.js. 
+To optimize views/pizza.html, you will need to modify views/js/main.js until your frames per second rate is 60 fps or higher. You will find instructive comments in main.js.
 
 You might find the FPS Counter/HUD Display useful in Chrome developer tools described here: [Chrome Dev Tools tips-and-tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks).
 
@@ -71,3 +71,14 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * <a href="http://nicoledominguez.com/portfolio/">http://nicoledominguez.com/portfolio/</a>
 * <a href="http://www.roxannecook.com/">http://www.roxannecook.com/</a>
 * <a href="http://www.84colors.com/portfolio.html">http://www.84colors.com/portfolio.html</a>
+
+
+Project Links:
+<a href="https://www.udacity.com/wiki/ud884">Web Optimization Wiki</a>
+<a href="https://developer.chrome.com/devtools/docs/device-mode">Device Mode &amp; Mobile Emulation - Google</a>
+<a href="https://developer.chrome.com/devtools/docs/timeline#making-a-recording">Performance Profiling with the Timeline</a>
+<a href="https://developer.chrome.com/devtools/docs/timeline#timeline-event-reference">Timeline Event Reference</a>
+<a href="https://developer.chrome.com/devtools/docs/remote-debugging">Remote Debugging with Android</a>
+<a href="https://developers.google.com/web/fundamentals/performance/critical-rendering-path/">Critical Rendering Path - Google</a>
+<a href="http://www.stevesouders.com/blog/2009/05/18/flushing-the-document-early/">Flushing Document Early</a>
+<a href="http://blog.cowchimp.com/chunk-scatter-http-chunked-response-analysis-tool/">Chunk Scatter - Visualize chunked HTTP responses</a>
